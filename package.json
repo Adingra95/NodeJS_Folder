@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/hbs": "^4.0.1",
+    "express": "^4.17.2",
+    "hbs": "^4.2.0"
+  },
+  "devDependencies": {
+    "hbs-cli": "^1.4.1"
+  }
+}
